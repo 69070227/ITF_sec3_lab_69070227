@@ -1,5 +1,5 @@
 """test"""
 def main():
-    print("HelloWorld")
+    print("pang")
 
 main()
